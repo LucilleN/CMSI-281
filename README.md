@@ -15,3 +15,5 @@ Lucille Njoo, CMSI 281 Data Structures, Loyola Marymount University
 * Assignment 7: Analysis of worst-case asymptotic (Big-O, O(g(n))) runtime complexity of selected methods from previous assignments, in the context of its class.
 * Assignment 8: BinaryTreeNode.java and BinaryHeap.java
   * Implementations of a binary tree and a binary heap.
+* Assignment 9: Dictreenary.java
+  * An implementation of a ternary tree of characters representing terms in a dictionary, from which arbitrary strings can be spell-checked.  
